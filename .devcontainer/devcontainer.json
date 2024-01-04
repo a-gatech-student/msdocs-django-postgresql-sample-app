@@ -21,7 +21,6 @@
 					{
 						"name": "tutorial-postgres",
 						"driver": "PostgreSQL",
-						"forwardPorts": ["5432"],
 						"previewLimit": 50,
 						"server": "localhost",
 						"port": 5432,
