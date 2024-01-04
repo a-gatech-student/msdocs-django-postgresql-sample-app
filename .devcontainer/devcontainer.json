@@ -19,7 +19,7 @@
 			"settings": {
 				"sqltools.connections": [
 					{
-						"name": "Container database",
+						"name": "tutorial-postgres",
 						"driver": "PostgreSQL",
 						"previewLimit": 50,
 						"server": "0.0.0.0",
